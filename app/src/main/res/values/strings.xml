@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesterWithHints</string>
+    <string name="btnHint">Show hint</string>
+</resources>
